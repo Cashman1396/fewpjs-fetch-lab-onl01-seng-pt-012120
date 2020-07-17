@@ -5,7 +5,7 @@ function fetchBooks() {
   });
   .then function(json) {
     return fetch()
-  }
+  });
 
 }
 
